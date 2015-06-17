@@ -6,9 +6,242 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2015 17:32:19 +0200</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 17:32:19 +0200</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2015 18:03:35 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 18:03:35 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Senior System Engineer - DevOps</title>
+        <description>&lt;p&gt;Our platform handles hundreds of thousands of requests per second and collects Terabytes of information relevant for business, production and monitoring. As part of our IT Operations team, you are in charge of the systems that store and process these amounts of data and make sure that they scale with our growth.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maintain and develop our highly automated server landscape with ~ 100 servers and a plethora of open source services&lt;/li&gt;
+  &lt;li&gt;Scale our systems and ensure the availability of our services together with other system engineers and database administrators&lt;/li&gt;
+  &lt;li&gt;Interact with our developers on changes to the infrastructure required by new features and products&lt;/li&gt;
+  &lt;li&gt;You focus on infrastructure automation to support the creation of test environment for QA and development&lt;/li&gt;
+  &lt;li&gt;Tackle technological challenges of an infrastructure currently handling up to 350k requests per minute&lt;/li&gt;
+  &lt;li&gt;Take part in the on-call rotation to ensure flawless operation of our products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3-5 years of experience in IT Operations of high-available applications&lt;/li&gt;
+  &lt;li&gt;Solid knowledge of Linux (CentOS preferred), webservers (nginx/Apache), TCP/IP networking and good command of at least one scripting language (Ruby, Python, Perl, sh)&lt;/li&gt;
+  &lt;li&gt;Experience with security, high availability, big data solutions, storage systems, automated deployment (chef/puppet) and Apache Kafka is a big plus&lt;/li&gt;
+  &lt;li&gt;An academic background in computer science is a plus&lt;/li&gt;
+  &lt;li&gt;Detail oriented, reliable and analytical with an proactive approach&lt;/li&gt;
+  &lt;li&gt;Fluency in English (verbal and written)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, with all of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 20:02:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/senior-system-engineer-devops/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/senior-system-engineer-devops/</guid>
+        
+        <category>Linux</category>
+        
+        <category>CentOS</category>
+        
+        <category>Nginx</category>
+        
+        <category>Apache</category>
+        
+        <category>Ruby</category>
+        
+        <category>Python</category>
+        
+        <category>Perl</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Director Product Demand</title>
+        <description>&lt;p&gt;Fyber is looking for an experienced &lt;strong&gt;Director Product - Demand&lt;/strong&gt; to raise the status quo with one of the fastest growing global players in Ad Tech. Your aim is to create a partnership-based platform to deliver best monetization rates for publishers. This role reports into the VP Product.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsible for product strategy across all sources of advertising demand on the Fyber platform. Your goal is to put together a platform that enables the kind of partnerships that deliver best monetization rates for publishers&lt;/li&gt;
+  &lt;li&gt;Lead a growing team of 6 product managers and product owners on the demand side. You’ll be responsible for our Mediation platform, the Fyber Exchange with its managed and programmatic demand sources as well as direct advertising services and self-serve tools&lt;/li&gt;
+  &lt;li&gt;Work closely with the executive team to align our overall demand strategy, work with your team of product managers and product owners to research, evaluate and scope new ideas and execute engineering projects&lt;/li&gt;
+  &lt;li&gt;Take responsibility for monetization rates across all ad formats on the Fyber platform&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;University degree (Computer Science, Business Information Systems, Economics, Business, other science or related field) with outstanding results.&lt;/li&gt;
+  &lt;li&gt;At least 3 years experience in ad tech, ideally mobile advertising (e.g. from working at an ad network, SSP, DSP, ad exchange, ad server, retargeting platform, trading desks, attribution platform or similar)&lt;/li&gt;
+  &lt;li&gt;At least 3 years of leadership experience leading a team of at least 4 direct reports&lt;/li&gt;
+  &lt;li&gt;At least 2 years of experience in product management OR 1 year of experience as an entrepreneur building ad tech products&lt;/li&gt;
+  &lt;li&gt;Familiar with the mobile ad tech industry and deep understanding of how SSPs, Ad Exchanges, DSPs and ad servers work&lt;/li&gt;
+  &lt;li&gt;Excellent written and oral communications skills, as well as strong interpersonal demeanor&lt;/li&gt;
+  &lt;li&gt;Strong leadership skills and experience managing expectations of stakeholders and executives&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, with all of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 19:48:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/director-product-demand/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/director-product-demand/</guid>
+        
+        <category>PM</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Senior Ruby Developer</title>
+        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As Lead Developer you head one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full stack development from the database all the way to the browser&lt;/li&gt;
+  &lt;li&gt;Create technical designs working with team members (up to 4 people) and our senior technicians as well as code (Ruby, in future Scala)&lt;/li&gt;
+  &lt;li&gt;Write high-quality code, conduct and participate in code reviews, and follow strong engineering principles and standards (like Ruby)&lt;/li&gt;
+  &lt;li&gt;Work on the development of developer tools (publisher dashboard incl. revenue analytics) e.g. refactoring and ad control features like blacklisting or filtration&lt;/li&gt;
+  &lt;li&gt;Align your work with Fyber business and technical visions&lt;/li&gt;
+  &lt;li&gt;Close cooperation with Quality Assurance, Product Managers, and frontend and backend engineers&lt;/li&gt;
+  &lt;li&gt;Research the technical feasibility of new ideas and actively suggest technology improvements&lt;/li&gt;
+  &lt;li&gt;Mentor and coach other developers&lt;/li&gt;
+  &lt;li&gt;Support and contribute to our amazing work culture&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 years experience with professional, commercial web development with high traffic production systems (3K requests per second)&lt;/li&gt;
+  &lt;li&gt;1 year of experience as a senior engineer working on a scalable product or as a Technical Leader for a team in a smaller company&lt;/li&gt;
+  &lt;li&gt;Expert in object­ oriented analysis and design (OO design skills obligatory) and Ruby (not Rails)&lt;/li&gt;
+  &lt;li&gt;Skilled in developing unit tests and automated tests for your code&lt;/li&gt;
+  &lt;li&gt;You bring software engineering principles and best practices to the table, based from experience&lt;/li&gt;
+  &lt;li&gt;Comfortable with Git and Github&lt;/li&gt;
+  &lt;li&gt;Understanding of one or more of the MVC JavaScript frameworks (Ember, Backbone, Batman, Angular, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;desired-or-interest-to-learn&quot;&gt;Desired or interest to learn:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Java, Scala, or c++&lt;/li&gt;
+  &lt;li&gt;Working with messaging queues, especially 0MQ and Kafka&lt;/li&gt;
+  &lt;li&gt;Jenkins and CI deployments&lt;/li&gt;
+  &lt;li&gt;Developing mission critical systems&lt;/li&gt;
+  &lt;li&gt;Hadoop or other big data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h1&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 19:38:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/senior-ruby-developer/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/senior-ruby-developer/</guid>
+        
+        <category>ruby</category>
+        
+        <category>scala</category>
+        
+        <category>ember</category>
+        
+        <category>backbone</category>
+        
+        <category>batman</category>
+        
+        <category>angular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Principal Test Architect</title>
+        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As Lead Developer you head one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
+
+&lt;p&gt;We’re looking for an expert &lt;strong&gt;Principal Test Architect&lt;/strong&gt; to design and own our test infrastructure and automation frameworks. This role will report directly to our VP Technology.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be the lead technical expert for Fyber’s overall testing strategy&lt;/li&gt;
+  &lt;li&gt;Own the tools and automation frameworks we use to ensure quality, and lead projects to improve them&lt;/li&gt;
+  &lt;li&gt;Plan, own and lead implementation of our performance testing capabilities, i.e. infrastructure to support testing for billions of impressions per day&lt;/li&gt;
+  &lt;li&gt;Identify new technologies and techniques that can improve our test processes and outcomes&lt;/li&gt;
+  &lt;li&gt;Be a coach and mentor to our engineers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accomplished technical leader&lt;/li&gt;
+  &lt;li&gt;Strong test automation background with over 8 years’ experience, ideally in a mobile environment with SDK testing&lt;/li&gt;
+  &lt;li&gt;Expert for performance testing approaches and technologies. Proven success in designing performance test infrastructure.&lt;/li&gt;
+  &lt;li&gt;Significant real-world experience in Ruby or similar languages&lt;/li&gt;
+  &lt;li&gt;Natural coach and communicator&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 19:28:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/principal-test-architect/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/principal-test-architect/</guid>
+        
+        <category>ruby</category>
+        
+        <category>c++</category>
+        
+        <category>scala</category>
+        
+        <category>ios</category>
+        
+        <category>android</category>
+        
+        
+      </item>
     
       <item>
         <title>DevOps Engineer OpenStack Support</title>
@@ -52,6 +285,24 @@ This is a key role in the Support and Technical Operations Team at Mirantis.&lt;
         <guid isPermaLink="true">http://yourdomain.com/2015/06/devops-engineer-openstack-support/</guid>
         
         <category>openstack</category>
+        
+        <category>linux</category>
+        
+        <category>puppet</category>
+        
+        <category>chef</category>
+        
+        <category>libvirt</category>
+        
+        <category>kvm</category>
+        
+        <category>xen</category>
+        
+        <category>vmware</category>
+        
+        <category>python</category>
+        
+        <category>ruby</category>
         
         
       </item>
@@ -110,6 +361,30 @@ This is a key role in the Support and Technical Operations Team at Mirantis.&lt;
         
         <category>openstack</category>
         
+        <category>linux</category>
+        
+        <category>python</category>
+        
+        <category>ruby</category>
+        
+        <category>kvm</category>
+        
+        <category>xen</category>
+        
+        <category>libvirt</category>
+        
+        <category>vmware</category>
+        
+        <category>ceph</category>
+        
+        <category>iscsl</category>
+        
+        <category>swift</category>
+        
+        <category>puppet</category>
+        
+        <category>chef</category>
+        
         
       </item>
     
@@ -163,6 +438,14 @@ This is a key role in the Support and Technical Operations Team at Mirantis.&lt;
         <guid isPermaLink="true">http://yourdomain.com/2015/06/senior-deployment-engineer-openstack-services/</guid>
         
         <category>openstack</category>
+        
+        <category>linux</category>
+        
+        <category>puppet</category>
+        
+        <category>chef</category>
+        
+        <category>mysql</category>
         
         
       </item>
@@ -234,6 +517,18 @@ This is a key role in the Support and Technical Operations Team at Mirantis.&lt;
         <guid isPermaLink="true">http://yourdomain.com/2015/06/openstack-operations-engineer-support-engineer/</guid>
         
         <category>openstack</category>
+        
+        <category>linux</category>
+        
+        <category>python</category>
+        
+        <category>puppet</category>
+        
+        <category>kvm</category>
+        
+        <category>libvirt</category>
+        
+        <category>qemu</category>
         
         
       </item>
