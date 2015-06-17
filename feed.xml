@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Jun 2015 12:44:48 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 12:44:48 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>OpenStack Operations Engineer / Support Engineer.</title>
+        <description>&lt;p&gt;&lt;strong&gt;Mirantis, Inc.&lt;/strong&gt; is an American multinational company specializing in OpenStack platform and products. Our head office is located in the heart of Silicon Valley in Mountain View. We work for industry giants including AT&amp;amp;T, NASA, IBM, Dell, Intel, HP, PayPal and many more.&lt;/p&gt;
+
+&lt;p&gt;We have just opened a new office in Poznan and we are looking for &lt;strong&gt;OpenStack Operations Engineer / Support Engineer.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-responsibilities&quot;&gt;Primary Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Primary entry point for client incidents at enterprise level, managing live issues until resolution;&lt;/li&gt;
+  &lt;li&gt;Take ownership of operational incidents and handle escalation of issues, as needed, to development teams;&lt;/li&gt;
+  &lt;li&gt;Reliably work set “shift-patterned” schedule in Poznan, Poland;&lt;/li&gt;
+  &lt;li&gt;Ability to rapidly learn OpenStack projects via in-house mentoring;&lt;/li&gt;
+  &lt;li&gt;Ensuring customer success by providing a superior skillset with a strong sense of urgency;&lt;/li&gt;
+  &lt;li&gt;Support Linux and OpenStack in both production and pre production environments for external clients;&lt;/li&gt;
+  &lt;li&gt;Log OpenStack bugs with Mirantis engineers and/or community resources;&lt;/li&gt;
+  &lt;li&gt;Contribute to OpenStack community via feedback and insight into chronic issues;&lt;/li&gt;
+  &lt;li&gt;Updating of internal Wiki and Knowledge Bases for information sharing purposes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;qualifications&quot;&gt;Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An extreme focus on customers’ success;&lt;/li&gt;
+  &lt;li&gt;Fluent English, both spoken and written;&lt;/li&gt;
+  &lt;li&gt;Excellent understanding of operational concepts with focus on critical support;&lt;/li&gt;
+  &lt;li&gt;Solid real-world experience with at least one virtualization technology platform;&lt;/li&gt;
+  &lt;li&gt;Practical and advanced experience with Linux/Unix system administration and troubleshooting in enterprise server environments;&lt;/li&gt;
+  &lt;li&gt;Experience in supporting large-scale multi-tenant infrastructure level services (load balancers, firewalls, etc.);&lt;/li&gt;
+  &lt;li&gt;Experience with supporting external clients at the enterprise level;&lt;/li&gt;
+  &lt;li&gt;Ability to troubleshoot the “whole stack” independently to isolate incidents’ root cause;&lt;/li&gt;
+  &lt;li&gt;Familiarity with cloud computing concepts, including horizontal scaling;&lt;/li&gt;
+  &lt;li&gt;Self-starter, taking initiative and requiring minimal oversight;&lt;/li&gt;
+  &lt;li&gt;Willingness to keep abreast of rapidly changing technical environments and quickly evolving software platforms;&lt;/li&gt;
+  &lt;li&gt;Willingness to work outside your technical “comfort zone”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nice-to-have&quot;&gt;Nice to Have:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Python, Puppet, and Cobbler experience are strong pluses;&lt;/li&gt;
+  &lt;li&gt;libvirt/QEMU/KVM experience;&lt;/li&gt;
+  &lt;li&gt;Excellent understanding of data center organization, including hardware configurations and networking;&lt;/li&gt;
+  &lt;li&gt;Familiarity with OpenStack, and the willingness to be trained to expert level;&lt;/li&gt;
+  &lt;li&gt;Experience with HA solutions; HA-proxy, Pacemaker, Corosync;&lt;/li&gt;
+  &lt;li&gt;Scripting ability in at least one: bash, perl or Python;&lt;/li&gt;
+  &lt;li&gt;Familiarity with ticketing systems and case tracking;&lt;/li&gt;
+  &lt;li&gt;Ability to analyze incident trends and recommend solutions;&lt;/li&gt;
+  &lt;li&gt;Familiarity with production monitoring and alerting;&lt;/li&gt;
+  &lt;li&gt;You are aware of the differences between a cumulus formation and an artesian well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What We Offer:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work with established leaders in their industry;&lt;/li&gt;
+  &lt;li&gt;Work with exceptionally passionate, talented and engaging colleagues;&lt;/li&gt;
+  &lt;li&gt;High-energy atmosphere of a young company, competitive compensation package with strong benefits plan;&lt;/li&gt;
+  &lt;li&gt;Lots of freedom for creativity and personal growth.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 17 Jun 2015 12:08:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/openstack-operations-engineer-support-engineer/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/openstack-operations-engineer-support-engineer/</guid>
+        
+        <category>openstack</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
