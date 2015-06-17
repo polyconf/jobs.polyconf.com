@@ -6,9 +6,163 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2015 12:44:48 +0200</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 12:44:48 +0200</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2015 15:24:53 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 15:24:53 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>DevOps Engineer OpenStack Support</title>
+        <description>&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Train to become an OpenStack Engineer at the expert level.&lt;/li&gt;
+  &lt;li&gt;Work directly with demanding corporate customers.&lt;/li&gt;
+  &lt;li&gt;Willingness to work time shifted schedules as required.&lt;/li&gt;
+  &lt;li&gt;Ability to automate deployment of OpenStack environments using Puppet and other DevOps tools.&lt;/li&gt;
+  &lt;li&gt;Research and develop methods to improve performance, reliability and scalability of OpenStack in live customer environments.&lt;/li&gt;
+  &lt;li&gt;Share knowledge with other team members and act as an internal escalation resource for other support team members.&lt;/li&gt;
+  &lt;li&gt;Develop, document and champion new procedures and initiatives to improve system stability and performance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;must-have&quot;&gt;Must have:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Expert Linux system administration and troubleshooting skills.&lt;/li&gt;
+  &lt;li&gt;Extensive experience with configuration management and deployment tools (Puppet, Chef, Salt, Ansible, Cobbler, MCollective).&lt;/li&gt;
+  &lt;li&gt;Expert understanding of networking concepts and protocols (L2-L7, SDN, NFV)&lt;/li&gt;
+  &lt;li&gt;Good knowledge of virtualization solutions (libvirt, KVM, Xen, VMware)&lt;/li&gt;
+  &lt;li&gt;Good knowledge of distributed storage solutions (iSCSI, Ceph, Swift)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;definite-pluses&quot;&gt;Definite Pluses:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Experience with scripting languages (Python, Ruby, Bash)&lt;/li&gt;
+  &lt;li&gt;Experience with Linux HA (corosync, pacemaker)&lt;/li&gt;
+  &lt;li&gt;Experience with databases and message brokers (MySQL, Galera, PostgreSQL, RabbitMQ)&lt;/li&gt;
+  &lt;li&gt;Experience with configuring, customizing, and extending monitoring tools (Nagios, Ganglia, Zabbix)&lt;/li&gt;
+  &lt;li&gt;Experience deploying and developing OpenStack or other cloud management frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 17:28:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/devops-engineer-openstack-support/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/devops-engineer-openstack-support/</guid>
+        
+        <category>openstack</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Engineer</title>
+        <description>&lt;p&gt;&lt;strong&gt;Mirantis&lt;/strong&gt; invites engineers who thrive when challenged to help us provide the best OpenStack experience to customers. This position is within the Mirantis product engineering organization, and we’re looking for brilliant individuals who are eager to play a vital role in the intersection of IT and software engineering.&lt;/p&gt;
+
+&lt;p&gt;If you’re passionate about open source software, Mirantis is where you belong!&lt;/p&gt;
+
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Proactively troubleshoot OpenStack deployments, detect and report issues&lt;/li&gt;
+  &lt;li&gt;Reproduce customer issues in a local lab, confirm bug reports, provide detailed information to the development team&lt;/li&gt;
+  &lt;li&gt;Work closely w/ development team: discuss customer issues, suggest improvements, fix bugs in code, participate in IRC meetings, etc.&lt;/li&gt;
+  &lt;li&gt;Provide engineering support for &lt;a href=&quot;https://www.mirantis.com/products/mirantis-openstack-software/?utm_source=wwwmirantiscom&amp;amp;utm_medium=text&amp;amp;utm_campaign=MOS%20weight%20increasing&quot;&gt;Mirantis OpenStack&lt;/a&gt; issues escalated by support/ops team. Help support/ops team deal w/ critical customer issues, participate in troubleshooting sessions over Webex as needed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;must-have&quot;&gt;Must have&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Expert Linux system administration and troubleshooting skills&lt;/li&gt;
+  &lt;li&gt;Expert understanding of networking concepts and protocols&lt;/li&gt;
+  &lt;li&gt;Ability to read and understand Python, Ruby code; basic scripting skills&lt;/li&gt;
+  &lt;li&gt;Good knowledge of virtualization solutions (libvirt, KVM, Xen, VMWare)&lt;/li&gt;
+  &lt;li&gt;Good knowledge of distributed storage solutions (iSCSl, Ceph, Swift)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;will-be-a-plus&quot;&gt;Will be a plus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Experience working w/ and maintaining large Python codebases&lt;/li&gt;
+  &lt;li&gt;Experience w/ Linux HA (corosync, pacemaker)&lt;/li&gt;
+  &lt;li&gt;Experience w/ databases and message brokers (MySQL, Galera, PostgreSQL, RabbitMQ)&lt;/li&gt;
+  &lt;li&gt;Experience with configuring, customizing, and extending monitoring tools (Nagios, Ganglia, Zabbix)&lt;/li&gt;
+  &lt;li&gt;Experience working configuration management tools (Puppet, Chef, Salt, Ansible, Cobbler, MCollective)&lt;/li&gt;
+  &lt;li&gt;Experience deploying and developing OpenStack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;we-offer&quot;&gt;We offer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work in the Silicon Valley w/ established leaders in their industry&lt;/li&gt;
+  &lt;li&gt;Work w/ exceptionally passionate, talented and engaging colleagues&lt;/li&gt;
+  &lt;li&gt;High-energy atmosphere of a young open-source friendly company&lt;/li&gt;
+  &lt;li&gt;Competitive compensation package w/ strong benefits plan and stock options&lt;/li&gt;
+  &lt;li&gt;Opportunity to make a difference in the world of cloud computing&lt;/li&gt;
+  &lt;li&gt;Flexible schedule, lots of freedom for creativity and personal growth&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 17 Jun 2015 17:08:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/software-engineer/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/software-engineer/</guid>
+        
+        <category>openstack</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Senior Deployment Engineer (OpenStack Services)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Mirantis&lt;/strong&gt;, Inc is looking for enthusiastic &lt;strong&gt;Senior Deployment Engineer&lt;/strong&gt; who will be extending OpenStack to build enterprise-grade automatic deployment suite for IaaS platforms. We would like to find an engineer who is willing to work on intersection of IT and software engineering, be passionate about open source and be able to design and deploy cloud infrastructure built on top of open-source components.&lt;/p&gt;
+
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help Mirantis build world-class automation and management capabilities for the cloud;&lt;/li&gt;
+  &lt;li&gt;Automate deployment of OpenStack and its components using Puppet, Chef or other deployment and configuration management utilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3+ years of experience in IT industry;&lt;/li&gt;
+  &lt;li&gt;Excellent system administration and automation skills in Linux;&lt;/li&gt;
+  &lt;li&gt;Ability to identify and troubleshoot issues quickly in a Linux-based environment;&lt;/li&gt;
+  &lt;li&gt;Experience of working with Puppet or Chef;&lt;/li&gt;
+  &lt;li&gt;Good understanding of Linux networking;&lt;/li&gt;
+  &lt;li&gt;Good understanding of virtualization;&lt;/li&gt;
+  &lt;li&gt;Experience with bash and one other programming language;&lt;/li&gt;
+  &lt;li&gt;Deep understanding of interactions between hardware components, operating system, and applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;would-be-a-plus&quot;&gt;Would be a plus:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understanding of software development and release management process;&lt;/li&gt;
+  &lt;li&gt;Experience of setting up and managing MySQL clusters;&lt;/li&gt;
+  &lt;li&gt;Experience with HA and relevant tools, such as Corosync, Pacemaker, keepalived, HAProxy;&lt;/li&gt;
+  &lt;li&gt;Experience with scripting languages, such as Ruby and Python;&lt;/li&gt;
+  &lt;li&gt;Experience with Cobbler, or any other PXE-based system for bare metal provisioning;&lt;/li&gt;
+  &lt;li&gt;Spoken English.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;we-offer&quot;&gt;We offer:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work with exceptionally passionate, talented and engaging colleagues;&lt;/li&gt;
+  &lt;li&gt;High-energy atmosphere of a young company;&lt;/li&gt;
+  &lt;li&gt;Really competitive salary and compensation package;&lt;/li&gt;
+  &lt;li&gt;Strong benefits plan;&lt;/li&gt;
+  &lt;li&gt;Lots of freedom for creativity as well as professional and personal growth.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 16:08:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/senior-deployment-engineer-openstack-services/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/senior-deployment-engineer-openstack-services/</guid>
+        
+        <category>openstack</category>
+        
+        
+      </item>
     
       <item>
         <title>OpenStack Operations Engineer / Support Engineer.</title>
