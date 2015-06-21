@@ -6,54 +6,159 @@
 </description>
     <link>http://polyconf.com/</link>
     <atom:link href="http://polyconf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jun 2015 17:28:11 +0200</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2015 17:28:11 +0200</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2015 18:37:48 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2015 18:37:48 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Senior Quality Assurance Engineer Mobile</title>
-        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As QA Engineer you work with one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
+        <title>Front-end Developer</title>
+        <description>&lt;p&gt;We are Netguru and we love developing web and mobile applications. We 
+value quality, transparent communication and a passion for work.&lt;/p&gt;
 
-&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;We are looking for a front-end developer with web design skills. If you have the talent to deliver the best quality - check out our offer.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;joining-netguru-means&quot;&gt;Joining netguru means:&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Test new features comprehensively as well as own the regression testing of our Android and iOS applications&lt;/li&gt;
-  &lt;li&gt;Analyze issues and bugs reported by internal or external users of our platform&lt;/li&gt;
-  &lt;li&gt;Work to automate functional tests&lt;/li&gt;
-  &lt;li&gt;Coordinate closely with product management and business units for aforementioned responsibilities&lt;/li&gt;
+  &lt;li&gt;working in &lt;strong&gt;experienced and advanced team&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;working based on &lt;strong&gt;TDD, Scrum and Agile methodologies&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;dev-friendly processes like &lt;strong&gt;Continuous Integration, Code Review, Internal Webinars&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;PM and QA care&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;startup-type projects&lt;/strong&gt; for clients all over the world&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;constant development&lt;/strong&gt; of your soft skills&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;flexplace&lt;/strong&gt; - work remotely from the place that suits you best (reserved for devs and seniors only)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;h2 id=&quot;ready-to-apply-first-check-if-you&quot;&gt;Ready to apply? First check if you:&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;2-5 years of working experience in quality assurance or development of web/mobile applications&lt;/li&gt;
-  &lt;li&gt;You have testing experience for iOS and Android-based smartphones/tablets&lt;/li&gt;
-  &lt;li&gt;You have experience working in Scrum/Agile sprint teams&lt;/li&gt;
-  &lt;li&gt;You have a deep understanding of mobile/Web technologies&lt;/li&gt;
-  &lt;li&gt;You are fluent in English&lt;/li&gt;
+  &lt;li&gt;have &lt;strong&gt;CSS (Sass) and JS knowledge&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have knowledge of at least one &lt;strong&gt;MVC framework&lt;/strong&gt; (AngularJS, Ember.js, Marionette.js)&lt;/li&gt;
+  &lt;li&gt;create &lt;strong&gt;DRY&lt;/strong&gt; code&lt;/li&gt;
+  &lt;li&gt;are familiar with &lt;strong&gt;GIT&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are experienced with &lt;strong&gt;RWD&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;you have good command of &lt;strong&gt;written and spoken English&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are able to show us your &lt;strong&gt;communication skills&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have a good eye to details&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
-&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+&lt;h2 id=&quot;we-will-be-happy-to-see-that-you&quot;&gt;We will be happy to see that you:&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
-  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
-  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
-  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
-  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+  &lt;li&gt;know &lt;strong&gt;Bootstrap, Foundation or different front-end framework&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have knowledge of useful &lt;strong&gt;js libraries (jQuery, underscore.js etc.)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have knowledge of &lt;strong&gt;CoffeeScript&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have basic knowledge of &lt;strong&gt;Photoshop (being able to work with a PSD file)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;know &lt;strong&gt;HAML/Slim&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;and-well-be-even-more-happy-to-see-that-you&quot;&gt;And we’ll be even more happy to see that you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;understand &lt;strong&gt;RoR code&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are experienced in &lt;strong&gt;front-end performance optimisation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;perks--benefits&quot;&gt;Perks &amp;amp; Benefits:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;MacBook&lt;/strong&gt; — we work with the best equipment&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Additional accessories to your computer&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private health insurance&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of &lt;strong&gt;international conferences&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of an &lt;strong&gt;English language course&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free sandwiches and half-price lunches&lt;/strong&gt; in the office in Poznań&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Team Retreats&lt;/strong&gt; three times per year&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Netguru Dinner&lt;/strong&gt; once a month&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Thu, 18 Jun 2015 19:28:07 +0200</pubDate>
-        <link>http://polyconf.com/2015/06/principal-test-architect/</link>
-        <guid isPermaLink="true">http://polyconf.com/2015/06/principal-test-architect/</guid>
+        <pubDate>Thu, 18 Jun 2015 18:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/front-end-developer/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/front-end-developer/</guid>
         
-        <category>qa</category>
+        <category>frontend</category>
         
-        <category>scrum</category>
+        <category>css</category>
         
-        <category>ios</category>
+        <category>sass</category>
         
-        <category>android</category>
+        <category>javascript</category>
+        
+        <category>angularjs</category>
+        
+        <category>ember</category>
+        
+        <category>marionette</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ruby on Rails Developer</title>
+        <description>&lt;p&gt;We are &lt;strong&gt;Netguru&lt;/strong&gt; and we love to develop web and mobile applications. 
+We value quality, transparent communication and passion for work. 
+We are always on the lookout for passionate &lt;strong&gt;Ruby on Rails developers&lt;/strong&gt;! 
+If you have talent and skills to deliver the best quality - check out 
+our offer.&lt;/p&gt;
+
+&lt;h2 id=&quot;joining-netguru-means&quot;&gt;Joining netguru means:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;working in &lt;strong&gt;experienced and advanced team&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;working based on &lt;strong&gt;TDD, Scrum and Agile methodologies&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;dev-friendly processes like &lt;strong&gt;Continuous Integration, Code Review, Internal Webinars&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;PM and QA care&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;startup-type projects&lt;/strong&gt; for clients all over the world&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;constant development&lt;/strong&gt; of your soft skills&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;flexplace&lt;/strong&gt; - work remotely from the place that suits you best (reserved for devs and seniors only)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ready-to-apply-first-check-if-you&quot;&gt;Ready to apply? First check if you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;have hands-on knowledge of:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Ruby on Rails, HAML/SCSS,&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;at least one of the &lt;strong&gt;javascript frameworks (angular/ember/..)&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;databases&lt;/strong&gt; so you know how to deal with queries efficiently&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;have experience with Ruby and you can show us &lt;strong&gt;examples of your work&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;can effectively &lt;strong&gt;search for information you need&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;you have &lt;strong&gt;very good command of written and spoken English&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are able to show us your &lt;strong&gt;communication skills&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;love to &lt;strong&gt;take charge of the project&lt;/strong&gt; you are dedicated to&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;we-will-be-happy-to-see-that-you&quot;&gt;We will be happy to see that you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;know &lt;strong&gt;TDD, Scrum and Agile methodologies&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have some &lt;strong&gt;open source contributions&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have some &lt;strong&gt;dev-ops skills&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;want-to-know-more-about-our-recruitment-process-read-our-articles-below&quot;&gt;Want to know more about our recruitment process? Read our articles below:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netguru.co/blog/the-10-most-frequently-asked&quot;&gt;The 10 Most Frequently Asked Questions During Dev Interviews (at netguru)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netguru.co/blog/posts/how-to-join-at-netguru-in-5-steps/&quot;&gt;How to join netguru in 5 steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netguru.co/blog/posts/how-pair-programming-can-help-you-in-recruitment&quot;&gt;How pair programming can help you in recruitment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;or ask us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#111;&amp;#098;&amp;#115;&amp;#064;&amp;#110;&amp;#101;&amp;#116;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#046;&amp;#099;&amp;#111;&quot;&gt;&amp;#106;&amp;#111;&amp;#098;&amp;#115;&amp;#064;&amp;#110;&amp;#101;&amp;#116;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#046;&amp;#099;&amp;#111;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;perks--benefits&quot;&gt;Perks &amp;amp; Benefits:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;MacBook&lt;/strong&gt; — we work with the best equipment&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Additional accessories to your computer&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private health insurance&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of &lt;strong&gt;international conferences&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of an &lt;strong&gt;English language course&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free sandwiches and half-price lunches&lt;/strong&gt; in the office in Poznań&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Team Retreats&lt;/strong&gt; three times per year&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Netguru Dinner&lt;/strong&gt; once a month&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 18 Jun 2015 17:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/ruby-on-rails-developer/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/ruby-on-rails-developer/</guid>
+        
+        <category>ruby</category>
+        
+        <category>rails</category>
         
         
       </item>
@@ -231,6 +336,54 @@
         <category>batman</category>
         
         <category>angular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Senior Quality Assurance Engineer Mobile</title>
+        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As QA Engineer you work with one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Test new features comprehensively as well as own the regression testing of our Android and iOS applications&lt;/li&gt;
+  &lt;li&gt;Analyze issues and bugs reported by internal or external users of our platform&lt;/li&gt;
+  &lt;li&gt;Work to automate functional tests&lt;/li&gt;
+  &lt;li&gt;Coordinate closely with product management and business units for aforementioned responsibilities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2-5 years of working experience in quality assurance or development of web/mobile applications&lt;/li&gt;
+  &lt;li&gt;You have testing experience for iOS and Android-based smartphones/tablets&lt;/li&gt;
+  &lt;li&gt;You have experience working in Scrum/Agile sprint teams&lt;/li&gt;
+  &lt;li&gt;You have a deep understanding of mobile/Web technologies&lt;/li&gt;
+  &lt;li&gt;You are fluent in English&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 19:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/senior-quality-assurance-engineer-mobile/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/senior-quality-assurance-engineer-mobile/</guid>
+        
+        <category>qa</category>
+        
+        <category>scrum</category>
+        
+        <category>ios</category>
+        
+        <category>android</category>
         
         
       </item>
