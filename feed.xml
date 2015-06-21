@@ -6,9 +6,57 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2015 18:04:57 +0200</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 18:04:57 +0200</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2015 16:02:14 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2015 16:02:14 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Senior Quality Assurance Engineer Mobile</title>
+        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As QA Engineer you work with one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Test new features comprehensively as well as own the regression testing of our Android and iOS applications&lt;/li&gt;
+  &lt;li&gt;Analyze issues and bugs reported by internal or external users of our platform&lt;/li&gt;
+  &lt;li&gt;Work to automate functional tests&lt;/li&gt;
+  &lt;li&gt;Coordinate closely with product management and business units for aforementioned responsibilities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2-5 years of working experience in quality assurance or development of web/mobile applications&lt;/li&gt;
+  &lt;li&gt;You have testing experience for iOS and Android-based smartphones/tablets&lt;/li&gt;
+  &lt;li&gt;You have experience working in Scrum/Agile sprint teams&lt;/li&gt;
+  &lt;li&gt;You have a deep understanding of mobile/Web technologies&lt;/li&gt;
+  &lt;li&gt;You are fluent in English&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Jun 2015 19:28:07 +0200</pubDate>
+        <link>http://yourdomain.com/2015/06/principal-test-architect/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/06/principal-test-architect/</guid>
+        
+        <category>qa</category>
+        
+        <category>scrum</category>
+        
+        <category>ios</category>
+        
+        <category>android</category>
+        
+        
+      </item>
     
       <item>
         <title>Senior System Engineer - DevOps</title>
@@ -183,62 +231,6 @@
         <category>batman</category>
         
         <category>angular</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Principal Test Architect</title>
-        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As Lead Developer you head one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
-
-&lt;p&gt;We’re looking for an expert &lt;strong&gt;Principal Test Architect&lt;/strong&gt; to design and own our test infrastructure and automation frameworks. This role will report directly to our VP Technology.&lt;/p&gt;
-
-&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Be the lead technical expert for Fyber’s overall testing strategy&lt;/li&gt;
-  &lt;li&gt;Own the tools and automation frameworks we use to ensure quality, and lead projects to improve them&lt;/li&gt;
-  &lt;li&gt;Plan, own and lead implementation of our performance testing capabilities, i.e. infrastructure to support testing for billions of impressions per day&lt;/li&gt;
-  &lt;li&gt;Identify new technologies and techniques that can improve our test processes and outcomes&lt;/li&gt;
-  &lt;li&gt;Be a coach and mentor to our engineers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Accomplished technical leader&lt;/li&gt;
-  &lt;li&gt;Strong test automation background with over 8 years’ experience, ideally in a mobile environment with SDK testing&lt;/li&gt;
-  &lt;li&gt;Expert for performance testing approaches and technologies. Proven success in designing performance test infrastructure.&lt;/li&gt;
-  &lt;li&gt;Significant real-world experience in Ruby or similar languages&lt;/li&gt;
-  &lt;li&gt;Natural coach and communicator&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
-&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
-  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
-  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
-  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
-  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Jun 2015 19:28:07 +0200</pubDate>
-        <link>http://yourdomain.com/2015/06/principal-test-architect/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/06/principal-test-architect/</guid>
-        
-        <category>ruby</category>
-        
-        <category>c++</category>
-        
-        <category>scala</category>
-        
-        <category>ios</category>
-        
-        <category>android</category>
         
         
       </item>
