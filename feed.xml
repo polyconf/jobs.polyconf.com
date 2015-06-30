@@ -6,9 +6,264 @@
 </description>
     <link>http://polyconf.com/</link>
     <atom:link href="http://polyconf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jun 2015 18:55:26 +0200</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2015 18:55:26 +0200</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 20:02:01 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 20:02:01 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Software Engineer Backend (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;The opportunity&lt;/h2&gt;
+
+&lt;p&gt;As a Zalando Back-end Software Engineer, you will build, scale and continuously improve the software of one of the world’s largest e-commerce platforms. Whether junior- or senior-level, you will use cutting-edge technologies to create high-performance applications that scale. You will challenge our status quo and help us define best practices for how we work. And you will have the freedom to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand—while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-are-looking-for&quot;&gt;What we are looking for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Deep knowledge of Scala, Java or Python&lt;/li&gt;
+  &lt;li&gt;Experience with relational (e.g. PostgreSQL) and NoSQL (e.g. Cassandra, Redis) databases&lt;/li&gt;
+  &lt;li&gt;Enthusiasm for microservices architectures, distributed systems and RESTful APIs&lt;/li&gt;
+  &lt;li&gt;Experience with building and/or running large-scale applications on a PaaS/SaaS cloud, preferably AWS&lt;/li&gt;
+  &lt;li&gt;Knowledge of current trends in software design, architecture and web services&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help design and build our distributed microservices landscape and evangelize best practices&lt;/li&gt;
+  &lt;li&gt;Write code that your peers praise for its elegance and readability&lt;/li&gt;
+  &lt;li&gt;Use agile methodologies&lt;/li&gt;
+  &lt;li&gt;Think big-picture: Constantly evaluate our work and processes and challenge us&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;What you can expect from us&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing tech talks and blog posts to networking with industry leaders&lt;/li&gt;
+  &lt;li&gt;Community: hack weeks, movie nights, coder dojos, +70 self-organized tech guilds  and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;40% Zalando shopping discount and commuter discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;About Zalando&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast — with microservices, Agile processes &amp;amp; autonomous teams  —  and using cutting edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:48:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/software-engineer-backend/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/software-engineer-backend/</guid>
+        
+        <category>scala</category>
+        
+        <category>python</category>
+        
+        <category>java</category>
+        
+        <category>postgresql</category>
+        
+        <category>cassandra</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Engineer Frontend (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;The opportunity&lt;/h2&gt;
+
+&lt;p&gt;As a Zalando front-end engineer, you will design, build and implement web applications that millions of people will use and enjoy. Whether junior- or senior-level, you will use cutting-edge technologies to create high-performance applications that scale. You will challenge our status quo and help us define best practices for how we work. And you will have the freedom to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand–while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-are-looking-for&quot;&gt;What we are looking for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A degree in Computer Science and/or at least one year of programming experience&lt;/li&gt;
+  &lt;li&gt;Demonstrated experience using JavaScript, HTML5 and CSS3 in a high-traffic environment&lt;/li&gt;
+  &lt;li&gt;Deep knowledge of modern front-end frameworks, build tools and test tools&lt;/li&gt;
+  &lt;li&gt;Familiarity with RESTful web services and cloud platforms such as Docker and AWS&lt;/li&gt;
+  &lt;li&gt;A collaborative mindset—you love sharing knowledge and the spotlight&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+  &lt;li&gt;For senior-level: Experience leading projects, mentoring others and creating interactive prototypes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Build new web applications related to our many customer-facing initiatives and maintain existing applications&lt;/li&gt;
+  &lt;li&gt;Write code that your peers praise for its elegance and readability&lt;/li&gt;
+  &lt;li&gt;Use agile methodologies&lt;/li&gt;
+  &lt;li&gt;Think big-picture: Constantly evaluate our work and processes and challenge us&lt;/li&gt;
+  &lt;li&gt;Recommend new libraries, frameworks, processes and other tools and help us to implement the best ones&lt;/li&gt;
+  &lt;li&gt;Be accountable for the applications you create—from design and development to testing and maintenance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;What you can expect from us&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A one-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing talks and blog posts to networking with industry leaders&lt;/li&gt;
+  &lt;li&gt;Community: hack weeks, movie nights, coder dojos, +70 self-organized tech guilds and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;40% Zalando shopping discount and commuter discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;About Zalando&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast — with microservices, Agile processes and autonomous teams  —  and using cutting-edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:38:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/software-engineer-frontend/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/software-engineer-frontend/</guid>
+        
+        <category>html5</category>
+        
+        <category>javascript</category>
+        
+        <category>css3</category>
+        
+        <category>aws</category>
+        
+        <category>rest</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DevOps, Platform (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;The opportunity&lt;/h2&gt;
+
+&lt;p&gt;Zalando’s continuous delivery team builds the infrastructure necessary for our engineers to create, test and automatically deploy their own applications. As a DevOps engineer, you will automate every step of our delivery pipeline and support other teams in using it. Whether junior- or senior-level, you will be expected to challenge our status quo and help us define best practices for how we work. And you will have the freedom to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand - while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-are-looking-for&quot;&gt;What we are looking for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;At least one year of experience programming in Python and using related packages, including PIP&lt;/li&gt;
+  &lt;li&gt;Substantial knowledge of Linux and its specific requirements regarding high availability, performance and safety&lt;/li&gt;
+  &lt;li&gt;Substantial experience with AWS, monitoring, virtual server management and provisioning&lt;/li&gt;
+  &lt;li&gt;Experience working with container/virtualization technologies (Docker, LXC, KVM) and enabling technologies such DNS, HTTPS, SSH, OSPF, OpenVPN, and iptables&lt;/li&gt;
+  &lt;li&gt;Experience with both relational (PostgreSQL) and NoSQL (Cassandra) databases, Tomcat, Apache HTTP Server and Nginx in a master/slave configuration&lt;/li&gt;
+  &lt;li&gt;Knowledge of agile methodologies&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Develop and maintain our delivery infrastructure&lt;/li&gt;
+  &lt;li&gt;Lead our efforts to automate our high-availability Linux system architecture&lt;/li&gt;
+  &lt;li&gt;Evaluate and implement new technologies to speed up performance, repair performance bottlenecks, and enhance the overall quality of our internal backend system operations&lt;/li&gt;
+  &lt;li&gt;Maintain, review and back up system components&lt;/li&gt;
+  &lt;li&gt;Develop and implement high-quality security concepts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;What you can expect from us&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing tech talks and blog posts to industry networking Community: hack weeks, movie nights, coder dojos, +70 self-organized tech guilds  and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;40% Zalando shopping discount and commuter discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;About Zalando&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast—with microservices, Agile processes &amp;amp; autonomous teams— and using cutting-edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:18:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/devops-platform/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/devops-platform/</guid>
+        
+        <category>devops</category>
+        
+        <category>python</category>
+        
+        <category>aws</category>
+        
+        <category>docker</category>
+        
+        <category>postgresql</category>
+        
+        <category>cassandra</category>
+        
+        <category>linux</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Algorithmic Software Engineer (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;THE OPPORTUNITY&lt;/h2&gt;
+
+&lt;p&gt;As a Zalando Algorithms Software Engineer, you will design and build the personalization, recommendation and optimization engines driving customer experiences enjoyed by millions of people. Whether junior- or senior-level, you will have the freedom to challenge our status-quo and help us define best practices for how we work. And you will be able to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand - while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-were-looking-for&quot;&gt;WHAT WE’RE LOOKING FOR&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A degree in mathematics, physics, statistics or computer science&lt;/li&gt;
+  &lt;li&gt;At least one year of professional experience programming in Java, Scala, or Python&lt;/li&gt;
+  &lt;li&gt;Solid knowledge of algorithms and data structures&lt;/li&gt;
+  &lt;li&gt;Strong analytical and critical thinking skills and a demonstrated ability to find creative solutions to technical algorithmic problems&lt;/li&gt;
+  &lt;li&gt;Enthusiasm for microservices architectures, distributed systems and RESTful APIs&lt;/li&gt;
+  &lt;li&gt;Knowledge of current trends in software design, architecture and web services&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-preferred-skills&quot;&gt;Additional preferred skills&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Knowledge of applied machine learning / data mining techniques&lt;/li&gt;
+  &lt;li&gt;Knowledge of graph theory, combinatorics and optimization methods&lt;/li&gt;
+  &lt;li&gt;Experience with building and / or running large-scale applications&lt;/li&gt;
+  &lt;li&gt;Experience with building applications using large data sets&lt;/li&gt;
+  &lt;li&gt;Knowledge of R or other machine learning tools (Mahout, Spark, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;YOUR RESPONSIBILITIES&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Research, design and implement algorithms to improve our recommendation, personalization and optimization engines&lt;/li&gt;
+  &lt;li&gt;Write code that your peers praise for its elegance and readability&lt;/li&gt;
+  &lt;li&gt;Communicate effectively with our engineering, data science and algorithmic research teams and use agile processes&lt;/li&gt;
+  &lt;li&gt;Be accountable for all aspects of your work, from research and analysis to testing and deployment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;WHAT YOU CAN EXPECT FROM US&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing tech talks and blog posts to networking with industry leaders&lt;/li&gt;
+  &lt;li&gt;Community: hack week’s, movie nights, coder dojos, +70 self-organized tech guilds and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;Zalando shopping discount and commute discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;ABOUT ZALANDO&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast — with microservices, Agile processes and autonomous teams  —  and using cutting-edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:08:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/algorithmic-software-engineer/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/algorithmic-software-engineer/</guid>
+        
+        <category>python</category>
+        
+        <category>scala</category>
+        
+        <category>java</category>
+        
+        <category>R</category>
+        
+        <category>REST</category>
+        
+        
+      </item>
     
       <item>
         <title>Starszy Inżynier Oprogramowania Java / .Net</title>
@@ -386,271 +641,6 @@ our offer.&lt;/p&gt;
         <guid isPermaLink="true">http://polyconf.com/2015/06/director-product-demand/</guid>
         
         <category>PM</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Senior Ruby Developer</title>
-        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As Lead Developer you head one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
-
-&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Full stack development from the database all the way to the browser&lt;/li&gt;
-  &lt;li&gt;Create technical designs working with team members (up to 4 people) and our senior technicians as well as code (Ruby, in future Scala)&lt;/li&gt;
-  &lt;li&gt;Write high-quality code, conduct and participate in code reviews, and follow strong engineering principles and standards (like Ruby)&lt;/li&gt;
-  &lt;li&gt;Work on the development of developer tools (publisher dashboard incl. revenue analytics) e.g. refactoring and ad control features like blacklisting or filtration&lt;/li&gt;
-  &lt;li&gt;Align your work with Fyber business and technical visions&lt;/li&gt;
-  &lt;li&gt;Close cooperation with Quality Assurance, Product Managers, and frontend and backend engineers&lt;/li&gt;
-  &lt;li&gt;Research the technical feasibility of new ideas and actively suggest technology improvements&lt;/li&gt;
-  &lt;li&gt;Mentor and coach other developers&lt;/li&gt;
-  &lt;li&gt;Support and contribute to our amazing work culture&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4 years experience with professional, commercial web development with high traffic production systems (3K requests per second)&lt;/li&gt;
-  &lt;li&gt;1 year of experience as a senior engineer working on a scalable product or as a Technical Leader for a team in a smaller company&lt;/li&gt;
-  &lt;li&gt;Expert in object­ oriented analysis and design (OO design skills obligatory) and Ruby (not Rails)&lt;/li&gt;
-  &lt;li&gt;Skilled in developing unit tests and automated tests for your code&lt;/li&gt;
-  &lt;li&gt;You bring software engineering principles and best practices to the table, based from experience&lt;/li&gt;
-  &lt;li&gt;Comfortable with Git and Github&lt;/li&gt;
-  &lt;li&gt;Understanding of one or more of the MVC JavaScript frameworks (Ember, Backbone, Batman, Angular, etc.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;desired-or-interest-to-learn&quot;&gt;Desired or interest to learn:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Java, Scala, or c++&lt;/li&gt;
-  &lt;li&gt;Working with messaging queues, especially 0MQ and Kafka&lt;/li&gt;
-  &lt;li&gt;Jenkins and CI deployments&lt;/li&gt;
-  &lt;li&gt;Developing mission critical systems&lt;/li&gt;
-  &lt;li&gt;Hadoop or other big data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h1&gt;
-&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
-  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
-  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
-  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
-  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Jun 2015 19:38:07 +0200</pubDate>
-        <link>http://polyconf.com/2015/06/senior-ruby-developer/</link>
-        <guid isPermaLink="true">http://polyconf.com/2015/06/senior-ruby-developer/</guid>
-        
-        <category>ruby</category>
-        
-        <category>scala</category>
-        
-        <category>ember</category>
-        
-        <category>backbone</category>
-        
-        <category>batman</category>
-        
-        <category>angular</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Senior Quality Assurance Engineer Mobile</title>
-        <description>&lt;p&gt;Our platform deals with huge amounts of data and billions of requests. Each engineering team works with a clear mission in mind, taking accountability for every part of the system from deployment to production 3rd tier engineering debugging. Our teams are multi-disciplinary and consist of Developers, QA Engineers and Product Managers. As QA Engineer you work with one of these core teams by bringing your friendly, open nature to take the individuals and team to a new level.&lt;/p&gt;
-
-&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Test new features comprehensively as well as own the regression testing of our Android and iOS applications&lt;/li&gt;
-  &lt;li&gt;Analyze issues and bugs reported by internal or external users of our platform&lt;/li&gt;
-  &lt;li&gt;Work to automate functional tests&lt;/li&gt;
-  &lt;li&gt;Coordinate closely with product management and business units for aforementioned responsibilities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;2-5 years of working experience in quality assurance or development of web/mobile applications&lt;/li&gt;
-  &lt;li&gt;You have testing experience for iOS and Android-based smartphones/tablets&lt;/li&gt;
-  &lt;li&gt;You have experience working in Scrum/Agile sprint teams&lt;/li&gt;
-  &lt;li&gt;You have a deep understanding of mobile/Web technologies&lt;/li&gt;
-  &lt;li&gt;You are fluent in English&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
-&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
-  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
-  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
-  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
-  &lt;li&gt;The financial stability of a larger company, but, withall of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Jun 2015 19:28:07 +0200</pubDate>
-        <link>http://polyconf.com/2015/06/senior-quality-assurance-engineer-mobile/</link>
-        <guid isPermaLink="true">http://polyconf.com/2015/06/senior-quality-assurance-engineer-mobile/</guid>
-        
-        <category>qa</category>
-        
-        <category>scrum</category>
-        
-        <category>ios</category>
-        
-        <category>android</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>DevOps Engineer OpenStack Support</title>
-        <description>&lt;p&gt;&lt;strong&gt;Mirantis&lt;/strong&gt; is seeking a skilled DevOps Engineer to work on our key corporate accounts with thousands of deployed nodes, help automate and operationalize OpenStack in live production environment, and establish best practices.  You will also act as an internal OpenStack escalations engineer for the L1 support team.
-This is a key role in the Support and Technical Operations Team at Mirantis.&lt;/p&gt;
-
-&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Train to become an OpenStack Engineer at the expert level.&lt;/li&gt;
-  &lt;li&gt;Work directly with demanding corporate customers.&lt;/li&gt;
-  &lt;li&gt;Willingness to work time shifted schedules as required.&lt;/li&gt;
-  &lt;li&gt;Ability to automate deployment of OpenStack environments using Puppet and other DevOps tools.&lt;/li&gt;
-  &lt;li&gt;Research and develop methods to improve performance, reliability and scalability of OpenStack in live customer environments.&lt;/li&gt;
-  &lt;li&gt;Share knowledge with other team members and act as an internal escalation resource for other support team members.&lt;/li&gt;
-  &lt;li&gt;Develop, document and champion new procedures and initiatives to improve system stability and performance.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;must-have&quot;&gt;Must have:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Expert Linux system administration and troubleshooting skills.&lt;/li&gt;
-  &lt;li&gt;Extensive experience with configuration management and deployment tools (Puppet, Chef, Salt, Ansible, Cobbler, MCollective).&lt;/li&gt;
-  &lt;li&gt;Expert understanding of networking concepts and protocols (L2-L7, SDN, NFV)&lt;/li&gt;
-  &lt;li&gt;Good knowledge of virtualization solutions (libvirt, KVM, Xen, VMware)&lt;/li&gt;
-  &lt;li&gt;Good knowledge of distributed storage solutions (iSCSI, Ceph, Swift)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;definite-pluses&quot;&gt;Definite Pluses:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Experience with scripting languages (Python, Ruby, Bash)&lt;/li&gt;
-  &lt;li&gt;Experience with Linux HA (corosync, pacemaker)&lt;/li&gt;
-  &lt;li&gt;Experience with databases and message brokers (MySQL, Galera, PostgreSQL, RabbitMQ)&lt;/li&gt;
-  &lt;li&gt;Experience with configuring, customizing, and extending monitoring tools (Nagios, Ganglia, Zabbix)&lt;/li&gt;
-  &lt;li&gt;Experience deploying and developing OpenStack or other cloud management frameworks.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Jun 2015 17:28:07 +0200</pubDate>
-        <link>http://polyconf.com/2015/06/devops-engineer-openstack-support/</link>
-        <guid isPermaLink="true">http://polyconf.com/2015/06/devops-engineer-openstack-support/</guid>
-        
-        <category>openstack</category>
-        
-        <category>linux</category>
-        
-        <category>puppet</category>
-        
-        <category>chef</category>
-        
-        <category>libvirt</category>
-        
-        <category>kvm</category>
-        
-        <category>xen</category>
-        
-        <category>vmware</category>
-        
-        <category>python</category>
-        
-        <category>ruby</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Software Engineer</title>
-        <description>&lt;p&gt;&lt;strong&gt;Mirantis&lt;/strong&gt; invites engineers who thrive when challenged to help us provide the best OpenStack experience to customers. This position is within the Mirantis product engineering organization, and we’re looking for brilliant individuals who are eager to play a vital role in the intersection of IT and software engineering.&lt;/p&gt;
-
-&lt;p&gt;If you’re passionate about open source software, Mirantis is where you belong!&lt;/p&gt;
-
-&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Proactively troubleshoot OpenStack deployments, detect and report issues&lt;/li&gt;
-  &lt;li&gt;Reproduce customer issues in a local lab, confirm bug reports, provide detailed information to the development team&lt;/li&gt;
-  &lt;li&gt;Work closely w/ development team: discuss customer issues, suggest improvements, fix bugs in code, participate in IRC meetings, etc.&lt;/li&gt;
-  &lt;li&gt;Provide engineering support for &lt;a href=&quot;https://www.mirantis.com/products/mirantis-openstack-software/?utm_source=wwwmirantiscom&amp;amp;utm_medium=text&amp;amp;utm_campaign=MOS%20weight%20increasing&quot;&gt;Mirantis OpenStack&lt;/a&gt; issues escalated by support/ops team. Help support/ops team deal w/ critical customer issues, participate in troubleshooting sessions over Webex as needed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;must-have&quot;&gt;Must have&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Expert Linux system administration and troubleshooting skills&lt;/li&gt;
-  &lt;li&gt;Expert understanding of networking concepts and protocols&lt;/li&gt;
-  &lt;li&gt;Ability to read and understand Python, Ruby code; basic scripting skills&lt;/li&gt;
-  &lt;li&gt;Good knowledge of virtualization solutions (libvirt, KVM, Xen, VMWare)&lt;/li&gt;
-  &lt;li&gt;Good knowledge of distributed storage solutions (iSCSl, Ceph, Swift)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;will-be-a-plus&quot;&gt;Will be a plus&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Experience working w/ and maintaining large Python codebases&lt;/li&gt;
-  &lt;li&gt;Experience w/ Linux HA (corosync, pacemaker)&lt;/li&gt;
-  &lt;li&gt;Experience w/ databases and message brokers (MySQL, Galera, PostgreSQL, RabbitMQ)&lt;/li&gt;
-  &lt;li&gt;Experience with configuring, customizing, and extending monitoring tools (Nagios, Ganglia, Zabbix)&lt;/li&gt;
-  &lt;li&gt;Experience working configuration management tools (Puppet, Chef, Salt, Ansible, Cobbler, MCollective)&lt;/li&gt;
-  &lt;li&gt;Experience deploying and developing OpenStack&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;we-offer&quot;&gt;We offer&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Work in the Silicon Valley w/ established leaders in their industry&lt;/li&gt;
-  &lt;li&gt;Work w/ exceptionally passionate, talented and engaging colleagues&lt;/li&gt;
-  &lt;li&gt;High-energy atmosphere of a young open-source friendly company&lt;/li&gt;
-  &lt;li&gt;Competitive compensation package w/ strong benefits plan and stock options&lt;/li&gt;
-  &lt;li&gt;Opportunity to make a difference in the world of cloud computing&lt;/li&gt;
-  &lt;li&gt;Flexible schedule, lots of freedom for creativity and personal growth&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 17 Jun 2015 17:08:07 +0200</pubDate>
-        <link>http://polyconf.com/2015/06/software-engineer/</link>
-        <guid isPermaLink="true">http://polyconf.com/2015/06/software-engineer/</guid>
-        
-        <category>openstack</category>
-        
-        <category>linux</category>
-        
-        <category>python</category>
-        
-        <category>ruby</category>
-        
-        <category>kvm</category>
-        
-        <category>xen</category>
-        
-        <category>libvirt</category>
-        
-        <category>vmware</category>
-        
-        <category>ceph</category>
-        
-        <category>iscsl</category>
-        
-        <category>swift</category>
-        
-        <category>puppet</category>
-        
-        <category>chef</category>
         
         
       </item>
