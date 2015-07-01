@@ -1,2 +1,0 @@
-# jobs.polyconf.com
-

@@ -1,0 +1,22 @@
+{
+  "name": "platform.sh",
+  "version": "0.0.1",
+  "authors": [
+    "Zaiste! <oh@zaiste.net>"
+  ],
+  "description": "Platform.sh static website",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "latest"
+  }
+}

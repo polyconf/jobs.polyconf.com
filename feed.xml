@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PolyConf Jobs</title>
+    <description>PolyConf is a three-day, single track, multi-disciplinary conference  on advanced technologies for programmers interested in polyglot  approach to software development.
+</description>
+    <link>http://polyconf.com/</link>
+    <atom:link href="http://polyconf.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Jun 2015 20:02:01 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 20:02:01 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Software Engineer Backend (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;The opportunity&lt;/h2&gt;
+
+&lt;p&gt;As a Zalando Back-end Software Engineer, you will build, scale and continuously improve the software of one of the world’s largest e-commerce platforms. Whether junior- or senior-level, you will use cutting-edge technologies to create high-performance applications that scale. You will challenge our status quo and help us define best practices for how we work. And you will have the freedom to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand—while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-are-looking-for&quot;&gt;What we are looking for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Deep knowledge of Scala, Java or Python&lt;/li&gt;
+  &lt;li&gt;Experience with relational (e.g. PostgreSQL) and NoSQL (e.g. Cassandra, Redis) databases&lt;/li&gt;
+  &lt;li&gt;Enthusiasm for microservices architectures, distributed systems and RESTful APIs&lt;/li&gt;
+  &lt;li&gt;Experience with building and/or running large-scale applications on a PaaS/SaaS cloud, preferably AWS&lt;/li&gt;
+  &lt;li&gt;Knowledge of current trends in software design, architecture and web services&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help design and build our distributed microservices landscape and evangelize best practices&lt;/li&gt;
+  &lt;li&gt;Write code that your peers praise for its elegance and readability&lt;/li&gt;
+  &lt;li&gt;Use agile methodologies&lt;/li&gt;
+  &lt;li&gt;Think big-picture: Constantly evaluate our work and processes and challenge us&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;What you can expect from us&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing tech talks and blog posts to networking with industry leaders&lt;/li&gt;
+  &lt;li&gt;Community: hack weeks, movie nights, coder dojos, +70 self-organized tech guilds  and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;40% Zalando shopping discount and commuter discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;About Zalando&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast — with microservices, Agile processes &amp;amp; autonomous teams  —  and using cutting edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:48:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/software-engineer-backend/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/software-engineer-backend/</guid>
+        
+        <category>scala</category>
+        
+        <category>python</category>
+        
+        <category>java</category>
+        
+        <category>postgresql</category>
+        
+        <category>cassandra</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Engineer Frontend (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;The opportunity&lt;/h2&gt;
+
+&lt;p&gt;As a Zalando front-end engineer, you will design, build and implement web applications that millions of people will use and enjoy. Whether junior- or senior-level, you will use cutting-edge technologies to create high-performance applications that scale. You will challenge our status quo and help us define best practices for how we work. And you will have the freedom to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand–while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-are-looking-for&quot;&gt;What we are looking for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A degree in Computer Science and/or at least one year of programming experience&lt;/li&gt;
+  &lt;li&gt;Demonstrated experience using JavaScript, HTML5 and CSS3 in a high-traffic environment&lt;/li&gt;
+  &lt;li&gt;Deep knowledge of modern front-end frameworks, build tools and test tools&lt;/li&gt;
+  &lt;li&gt;Familiarity with RESTful web services and cloud platforms such as Docker and AWS&lt;/li&gt;
+  &lt;li&gt;A collaborative mindset—you love sharing knowledge and the spotlight&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+  &lt;li&gt;For senior-level: Experience leading projects, mentoring others and creating interactive prototypes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Build new web applications related to our many customer-facing initiatives and maintain existing applications&lt;/li&gt;
+  &lt;li&gt;Write code that your peers praise for its elegance and readability&lt;/li&gt;
+  &lt;li&gt;Use agile methodologies&lt;/li&gt;
+  &lt;li&gt;Think big-picture: Constantly evaluate our work and processes and challenge us&lt;/li&gt;
+  &lt;li&gt;Recommend new libraries, frameworks, processes and other tools and help us to implement the best ones&lt;/li&gt;
+  &lt;li&gt;Be accountable for the applications you create—from design and development to testing and maintenance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;What you can expect from us&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A one-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing talks and blog posts to networking with industry leaders&lt;/li&gt;
+  &lt;li&gt;Community: hack weeks, movie nights, coder dojos, +70 self-organized tech guilds and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;40% Zalando shopping discount and commuter discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;About Zalando&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast — with microservices, Agile processes and autonomous teams  —  and using cutting-edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:38:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/software-engineer-frontend/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/software-engineer-frontend/</guid>
+        
+        <category>html5</category>
+        
+        <category>javascript</category>
+        
+        <category>css3</category>
+        
+        <category>aws</category>
+        
+        <category>rest</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DevOps, Platform (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;The opportunity&lt;/h2&gt;
+
+&lt;p&gt;Zalando’s continuous delivery team builds the infrastructure necessary for our engineers to create, test and automatically deploy their own applications. As a DevOps engineer, you will automate every step of our delivery pipeline and support other teams in using it. Whether junior- or senior-level, you will be expected to challenge our status quo and help us define best practices for how we work. And you will have the freedom to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand - while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-are-looking-for&quot;&gt;What we are looking for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;At least one year of experience programming in Python and using related packages, including PIP&lt;/li&gt;
+  &lt;li&gt;Substantial knowledge of Linux and its specific requirements regarding high availability, performance and safety&lt;/li&gt;
+  &lt;li&gt;Substantial experience with AWS, monitoring, virtual server management and provisioning&lt;/li&gt;
+  &lt;li&gt;Experience working with container/virtualization technologies (Docker, LXC, KVM) and enabling technologies such DNS, HTTPS, SSH, OSPF, OpenVPN, and iptables&lt;/li&gt;
+  &lt;li&gt;Experience with both relational (PostgreSQL) and NoSQL (Cassandra) databases, Tomcat, Apache HTTP Server and Nginx in a master/slave configuration&lt;/li&gt;
+  &lt;li&gt;Knowledge of agile methodologies&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;Your responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Develop and maintain our delivery infrastructure&lt;/li&gt;
+  &lt;li&gt;Lead our efforts to automate our high-availability Linux system architecture&lt;/li&gt;
+  &lt;li&gt;Evaluate and implement new technologies to speed up performance, repair performance bottlenecks, and enhance the overall quality of our internal backend system operations&lt;/li&gt;
+  &lt;li&gt;Maintain, review and back up system components&lt;/li&gt;
+  &lt;li&gt;Develop and implement high-quality security concepts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;What you can expect from us&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing tech talks and blog posts to industry networking Community: hack weeks, movie nights, coder dojos, +70 self-organized tech guilds  and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;40% Zalando shopping discount and commuter discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;About Zalando&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast—with microservices, Agile processes &amp;amp; autonomous teams— and using cutting-edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:18:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/devops-platform/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/devops-platform/</guid>
+        
+        <category>devops</category>
+        
+        <category>python</category>
+        
+        <category>aws</category>
+        
+        <category>docker</category>
+        
+        <category>postgresql</category>
+        
+        <category>cassandra</category>
+        
+        <category>linux</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Algorithmic Software Engineer (Junior/Senior)</title>
+        <description>&lt;h2 id=&quot;the-opportunity&quot;&gt;THE OPPORTUNITY&lt;/h2&gt;
+
+&lt;p&gt;As a Zalando Algorithms Software Engineer, you will design and build the personalization, recommendation and optimization engines driving customer experiences enjoyed by millions of people. Whether junior- or senior-level, you will have the freedom to challenge our status-quo and help us define best practices for how we work. And you will be able to launch your own open source projects, contribute to others’ projects, build internal community around your interests, and strengthen your personal brand - while receiving meaningful support at every step.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-were-looking-for&quot;&gt;WHAT WE’RE LOOKING FOR&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A degree in mathematics, physics, statistics or computer science&lt;/li&gt;
+  &lt;li&gt;At least one year of professional experience programming in Java, Scala, or Python&lt;/li&gt;
+  &lt;li&gt;Solid knowledge of algorithms and data structures&lt;/li&gt;
+  &lt;li&gt;Strong analytical and critical thinking skills and a demonstrated ability to find creative solutions to technical algorithmic problems&lt;/li&gt;
+  &lt;li&gt;Enthusiasm for microservices architectures, distributed systems and RESTful APIs&lt;/li&gt;
+  &lt;li&gt;Knowledge of current trends in software design, architecture and web services&lt;/li&gt;
+  &lt;li&gt;English language fluency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-preferred-skills&quot;&gt;Additional preferred skills&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Knowledge of applied machine learning / data mining techniques&lt;/li&gt;
+  &lt;li&gt;Knowledge of graph theory, combinatorics and optimization methods&lt;/li&gt;
+  &lt;li&gt;Experience with building and / or running large-scale applications&lt;/li&gt;
+  &lt;li&gt;Experience with building applications using large data sets&lt;/li&gt;
+  &lt;li&gt;Knowledge of R or other machine learning tools (Mahout, Spark, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-responsibilities&quot;&gt;YOUR RESPONSIBILITIES&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Research, design and implement algorithms to improve our recommendation, personalization and optimization engines&lt;/li&gt;
+  &lt;li&gt;Write code that your peers praise for its elegance and readability&lt;/li&gt;
+  &lt;li&gt;Communicate effectively with our engineering, data science and algorithmic research teams and use agile processes&lt;/li&gt;
+  &lt;li&gt;Be accountable for all aspects of your work, from research and analysis to testing and deployment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-us&quot;&gt;WHAT YOU CAN EXPECT FROM US&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-month mentoring program&lt;/li&gt;
+  &lt;li&gt;Internal tech talks, skills-building courses and technical “People Leads” who help you achieve mastery&lt;/li&gt;
+  &lt;li&gt;Personal branding support: From preparing tech talks and blog posts to networking with industry leaders&lt;/li&gt;
+  &lt;li&gt;Community: hack week’s, movie nights, coder dojos, +70 self-organized tech guilds and more&lt;/li&gt;
+  &lt;li&gt;Competitive salary&lt;/li&gt;
+  &lt;li&gt;Zalando shopping discount and commute discount&lt;/li&gt;
+  &lt;li&gt;Relocation assistance for internationals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-zalando&quot;&gt;ABOUT ZALANDO&lt;/h2&gt;
+
+&lt;p&gt;Zalando is Europe’s leading online fashion platform, doing business in 15 markets. Delivering first-class shopping experiences to our +15 million customers requires moving fast — with microservices, Agile processes and autonomous teams  —  and using cutting-edge, open source technologies. We are passionate about what we do and have fun while doing it. And we are willing to experiment and make mistakes: It’s how we grow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 20:08:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/algorithmic-software-engineer/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/algorithmic-software-engineer/</guid>
+        
+        <category>python</category>
+        
+        <category>scala</category>
+        
+        <category>java</category>
+        
+        <category>R</category>
+        
+        <category>REST</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Starszy Inżynier Oprogramowania Java / .Net</title>
+        <description>&lt;p&gt;Jeśli poszukujesz nowych wyzwań, czujesz, że nadszedł czas, aby zrobić 
+kolejny krok w Twojej karierze - zgłoś się do nas!&lt;/p&gt;
+
+&lt;h2 id=&quot;nr-ref-polyconf02wro&quot;&gt;Nr ref. &lt;code&gt;Polyconf/02/Wro&lt;/code&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;profil-idealnego-kandydata&quot;&gt;Profil idealnego kandydata:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Co najmniej &lt;strong&gt;3-letnie doświadczenie&lt;/strong&gt; w tworzeniu systemów w oparciu o technologie &lt;strong&gt;Java / J2EE lub .NET&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Atutem będzie dobra, praktyczna znajomość &lt;strong&gt;technologii webowych&lt;/strong&gt; (np. JSP, JSF, Spring, Struts, XML, Web Services, Servlets)&lt;/li&gt;
+  &lt;li&gt;Praktyczna znajomość produktów bazodanowych (np. &lt;strong&gt;Oracle/SQL Server&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;Znajomość metodologii tworzenia systemów informatycznych i inżynierii oprogramowania&lt;/li&gt;
+  &lt;li&gt;Ukończone z dobrymi wynikami studia magisterskie lub inżynierskie z informatyki lub innych nauk ścisłych&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Przynajmniej podstawowa znajomość języka niemieckiego&lt;/strong&gt; (Capgemini będzie wspierać dalsze kształcenie w zakresie języka niemieckiego w ramach &lt;strong&gt;intensywnego kursu języka niemieckiego&lt;/strong&gt;, bez wpływu na finansowe warunki zatrudnienia)&lt;/li&gt;
+  &lt;li&gt;Umiejętność analitycznego myślenia&lt;/li&gt;
+  &lt;li&gt;Łatwość nawiązywania kontaktów, szczerość i umiejętność współpracy w zespole&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oferujemy&quot;&gt;Oferujemy:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Możliwość rozwoju zawodowego&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Udział w prestiżowych projektach międzynarodowych&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Atrakcyjne warunki finansowe&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Prywatną opiekę medyczną&lt;/li&gt;
+  &lt;li&gt;Pakiet ubezpieczeniowy&lt;/li&gt;
+  &lt;li&gt;Dodatkowe świadczenia w ramach pakietu socjalnego, w tym m.in. kartę &lt;strong&gt;Multisport&lt;/strong&gt;, &lt;strong&gt;dofinansowanie zajęć sportowych&lt;/strong&gt; (kickboxing, koszykówka, siatkówka, piłka nożna), &lt;strong&gt;bilety do kina&lt;/strong&gt; i inne&lt;/li&gt;
+  &lt;li&gt;Wyjazdy integracyjne&lt;/li&gt;
+  &lt;li&gt;Szkolenia zawodowe i językowe&lt;/li&gt;
+  &lt;li&gt;Możliwość elastycznego dostosowania czasu pracy&lt;/li&gt;
+  &lt;li&gt;Przyjazną atmosferę w pracy&lt;/li&gt;
+  &lt;li&gt;Wsparcie w relokacji&lt;/li&gt;
+  &lt;li&gt;Umowę o prace na czas nieokreślony od początku zatrudnienia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zgłoszenia &lt;strong&gt;w języku niemieckim lub angielskim wraz z numerem 
+referencyjnym&lt;/strong&gt;, prosimy przesyłać na adres: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#114;&amp;#101;&amp;#107;&amp;#114;&amp;#117;&amp;#116;&amp;#097;&amp;#099;&amp;#106;&amp;#097;&amp;#046;&amp;#115;&amp;#115;&amp;#099;&amp;#046;&amp;#112;&amp;#108;&amp;#064;&amp;#099;&amp;#097;&amp;#112;&amp;#103;&amp;#101;&amp;#109;&amp;#105;&amp;#110;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#114;&amp;#101;&amp;#107;&amp;#114;&amp;#117;&amp;#116;&amp;#097;&amp;#099;&amp;#106;&amp;#097;&amp;#046;&amp;#115;&amp;#115;&amp;#099;&amp;#046;&amp;#112;&amp;#108;&amp;#064;&amp;#099;&amp;#097;&amp;#112;&amp;#103;&amp;#101;&amp;#109;&amp;#105;&amp;#110;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Jun 2015 19:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/starszy-inzynier-oprogramowania-java-net/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/starszy-inzynier-oprogramowania-java-net/</guid>
+        
+        <category>java</category>
+        
+        <category>jee</category>
+        
+        <category>jsp</category>
+        
+        <category>jsf</category>
+        
+        <category>spring</category>
+        
+        <category>javascript</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Inżynier Oprogramowania Java</title>
+        <description>&lt;p&gt;Jeśli poszukujesz nowych wyzwań, czujesz, że nadszedł czas, aby zrobić 
+kolejny krok w Twojej karierze - zgłoś się do nas!&lt;/p&gt;
+
+&lt;h2 id=&quot;nr-ref-polyconf41wro&quot;&gt;Nr ref. &lt;code&gt;Polyconf/41/Wro&lt;/code&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;profil-idealnego-kandydata&quot;&gt;Profil idealnego kandydata:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Co najmniej &lt;strong&gt;2-letnie komercyjne doświadczenie&lt;/strong&gt; w tworzeniu systemów w oparciu o technologie &lt;strong&gt;Java / JEE&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Umiejętność programowania w technologii &lt;strong&gt;JAVA&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Obycie w &lt;strong&gt;technologiach webowych&lt;/strong&gt; (np. JSP, JSF, Spring, Struts, XML, Web Services, Servlets, HTML, JavaScript)&lt;/li&gt;
+  &lt;li&gt;Ukończone z dobrymi wynikami studia magisterskie lub inżynierskie z dziedziny nauk ścisłych&lt;/li&gt;
+  &lt;li&gt;Dobra znajomość SQL&lt;/li&gt;
+  &lt;li&gt;Znajomość metodologii programowania&lt;/li&gt;
+  &lt;li&gt;Umiejętność myślenia analitycznego&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bardzo dobra znajomość języka angielskiego w mowie i piśmie&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Przynajmniej podstawowa znajomość języka niemieckiego będzie dodatkowym atutem&lt;/li&gt;
+  &lt;li&gt;Łatwość nawiązywania kontaktów, szczerość i umiejętność współpracy w zespole&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oferujemy&quot;&gt;Oferujemy:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Możliwość rozwoju zawodowego&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Udział w prestiżowych projektach międzynarodowych&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Atrakcyjne warunki finansowe&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Prywatną opiekę medyczną&lt;/li&gt;
+  &lt;li&gt;Pakiet ubezpieczeniowy&lt;/li&gt;
+  &lt;li&gt;Dodatkowe świadczenia w ramach pakietu socjalnego, w tym m.in. kartę &lt;strong&gt;Multisport&lt;/strong&gt;, &lt;strong&gt;dofinansowanie zajęć sportowych&lt;/strong&gt; (kickboxing, koszykówka, siatkówka, piłka nożna), &lt;strong&gt;bilety do kina&lt;/strong&gt; i inne&lt;/li&gt;
+  &lt;li&gt;Wyjazdy integracyjne&lt;/li&gt;
+  &lt;li&gt;Szkolenia zawodowe i językowe&lt;/li&gt;
+  &lt;li&gt;Możliwość elastycznego dostosowania czasu pracy&lt;/li&gt;
+  &lt;li&gt;Przyjazną atmosferę w pracy&lt;/li&gt;
+  &lt;li&gt;Wsparcie w relokacji&lt;/li&gt;
+  &lt;li&gt;Umowę o prace na czas nieokreślony od początku zatrudnienia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zgłoszenia &lt;strong&gt;w języku niemieckim lub angielskim wraz z numerem 
+referencyjnym&lt;/strong&gt;, prosimy przesyłać na adres: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#114;&amp;#101;&amp;#107;&amp;#114;&amp;#117;&amp;#116;&amp;#097;&amp;#099;&amp;#106;&amp;#097;&amp;#046;&amp;#115;&amp;#115;&amp;#099;&amp;#046;&amp;#112;&amp;#108;&amp;#064;&amp;#099;&amp;#097;&amp;#112;&amp;#103;&amp;#101;&amp;#109;&amp;#105;&amp;#110;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#114;&amp;#101;&amp;#107;&amp;#114;&amp;#117;&amp;#116;&amp;#097;&amp;#099;&amp;#106;&amp;#097;&amp;#046;&amp;#115;&amp;#115;&amp;#099;&amp;#046;&amp;#112;&amp;#108;&amp;#064;&amp;#099;&amp;#097;&amp;#112;&amp;#103;&amp;#101;&amp;#109;&amp;#105;&amp;#110;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Jun 2015 17:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/inzynier-oprogramowania-java/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/inzynier-oprogramowania-java/</guid>
+        
+        <category>java</category>
+        
+        <category>jee</category>
+        
+        <category>jsp</category>
+        
+        <category>jsf</category>
+        
+        <category>spring</category>
+        
+        <category>javascript</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Front-end Developer</title>
+        <description>&lt;p&gt;We are Netguru and we love developing web and mobile applications. We 
+value quality, transparent communication and a passion for work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We are looking for a front-end developer with web design skills. If you have the talent to deliver the best quality - check out our offer.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;joining-netguru-means&quot;&gt;Joining netguru means:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;working in &lt;strong&gt;experienced and advanced team&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;working based on &lt;strong&gt;TDD, Scrum and Agile methodologies&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;dev-friendly processes like &lt;strong&gt;Continuous Integration, Code Review, Internal Webinars&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;PM and QA care&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;startup-type projects&lt;/strong&gt; for clients all over the world&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;constant development&lt;/strong&gt; of your soft skills&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;flexplace&lt;/strong&gt; - work remotely from the place that suits you best (reserved for devs and seniors only)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ready-to-apply-first-check-if-you&quot;&gt;Ready to apply? First check if you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;have &lt;strong&gt;CSS (Sass) and JS knowledge&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have knowledge of at least one &lt;strong&gt;MVC framework&lt;/strong&gt; (AngularJS, Ember.js, Marionette.js)&lt;/li&gt;
+  &lt;li&gt;create &lt;strong&gt;DRY&lt;/strong&gt; code&lt;/li&gt;
+  &lt;li&gt;are familiar with &lt;strong&gt;GIT&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are experienced with &lt;strong&gt;RWD&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;you have good command of &lt;strong&gt;written and spoken English&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are able to show us your &lt;strong&gt;communication skills&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have a good eye to details&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;we-will-be-happy-to-see-that-you&quot;&gt;We will be happy to see that you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;know &lt;strong&gt;Bootstrap, Foundation or different front-end framework&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have knowledge of useful &lt;strong&gt;js libraries (jQuery, underscore.js etc.)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have knowledge of &lt;strong&gt;CoffeeScript&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have basic knowledge of &lt;strong&gt;Photoshop (being able to work with a PSD file)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;know &lt;strong&gt;HAML/Slim&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-well-be-even-more-happy-to-see-that-you&quot;&gt;And we’ll be even more happy to see that you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;understand &lt;strong&gt;RoR code&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are experienced in &lt;strong&gt;front-end performance optimisation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;perks--benefits&quot;&gt;Perks &amp;amp; Benefits:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;MacBook&lt;/strong&gt; — we work with the best equipment&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Additional accessories to your computer&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private health insurance&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of &lt;strong&gt;international conferences&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of an &lt;strong&gt;English language course&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free sandwiches and half-price lunches&lt;/strong&gt; in the office in Poznań&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Team Retreats&lt;/strong&gt; three times per year&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Netguru Dinner&lt;/strong&gt; once a month&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 18 Jun 2015 18:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/front-end-developer/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/front-end-developer/</guid>
+        
+        <category>frontend</category>
+        
+        <category>css</category>
+        
+        <category>sass</category>
+        
+        <category>javascript</category>
+        
+        <category>angularjs</category>
+        
+        <category>ember</category>
+        
+        <category>marionette</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ruby on Rails Developer</title>
+        <description>&lt;p&gt;We are &lt;strong&gt;Netguru&lt;/strong&gt; and we love to develop web and mobile applications. 
+We value quality, transparent communication and passion for work. 
+We are always on the lookout for passionate &lt;strong&gt;Ruby on Rails developers&lt;/strong&gt;! 
+If you have talent and skills to deliver the best quality - check out 
+our offer.&lt;/p&gt;
+
+&lt;h2 id=&quot;joining-netguru-means&quot;&gt;Joining netguru means:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;working in &lt;strong&gt;experienced and advanced team&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;working based on &lt;strong&gt;TDD, Scrum and Agile methodologies&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;dev-friendly processes like &lt;strong&gt;Continuous Integration, Code Review, Internal Webinars&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;PM and QA care&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;startup-type projects&lt;/strong&gt; for clients all over the world&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;constant development&lt;/strong&gt; of your soft skills&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;flexplace&lt;/strong&gt; - work remotely from the place that suits you best (reserved for devs and seniors only)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ready-to-apply-first-check-if-you&quot;&gt;Ready to apply? First check if you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;have hands-on knowledge of:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Ruby on Rails, HAML/SCSS,&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;at least one of the &lt;strong&gt;javascript frameworks (angular/ember/..)&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;databases&lt;/strong&gt; so you know how to deal with queries efficiently&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;have experience with Ruby and you can show us &lt;strong&gt;examples of your work&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;can effectively &lt;strong&gt;search for information you need&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;you have &lt;strong&gt;very good command of written and spoken English&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;are able to show us your &lt;strong&gt;communication skills&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;love to &lt;strong&gt;take charge of the project&lt;/strong&gt; you are dedicated to&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;we-will-be-happy-to-see-that-you&quot;&gt;We will be happy to see that you:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;know &lt;strong&gt;TDD, Scrum and Agile methodologies&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have some &lt;strong&gt;open source contributions&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;have some &lt;strong&gt;dev-ops skills&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;want-to-know-more-about-our-recruitment-process-read-our-articles-below&quot;&gt;Want to know more about our recruitment process? Read our articles below:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netguru.co/blog/the-10-most-frequently-asked&quot;&gt;The 10 Most Frequently Asked Questions During Dev Interviews (at netguru)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netguru.co/blog/posts/how-to-join-at-netguru-in-5-steps/&quot;&gt;How to join netguru in 5 steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netguru.co/blog/posts/how-pair-programming-can-help-you-in-recruitment&quot;&gt;How pair programming can help you in recruitment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;or ask us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#111;&amp;#098;&amp;#115;&amp;#064;&amp;#110;&amp;#101;&amp;#116;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#046;&amp;#099;&amp;#111;&quot;&gt;&amp;#106;&amp;#111;&amp;#098;&amp;#115;&amp;#064;&amp;#110;&amp;#101;&amp;#116;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#046;&amp;#099;&amp;#111;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;perks--benefits&quot;&gt;Perks &amp;amp; Benefits:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;MacBook&lt;/strong&gt; — we work with the best equipment&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Additional accessories to your computer&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private health insurance&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of &lt;strong&gt;international conferences&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Co-financing of an &lt;strong&gt;English language course&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free sandwiches and half-price lunches&lt;/strong&gt; in the office in Poznań&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Team Retreats&lt;/strong&gt; three times per year&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Netguru Dinner&lt;/strong&gt; once a month&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 18 Jun 2015 17:28:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/ruby-on-rails-developer/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/ruby-on-rails-developer/</guid>
+        
+        <category>ruby</category>
+        
+        <category>rails</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Senior System Engineer - DevOps</title>
+        <description>&lt;p&gt;Our platform handles hundreds of thousands of requests per second and collects Terabytes of information relevant for business, production and monitoring. As part of our IT Operations team, you are in charge of the systems that store and process these amounts of data and make sure that they scale with our growth.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maintain and develop our highly automated server landscape with ~ 100 servers and a plethora of open source services&lt;/li&gt;
+  &lt;li&gt;Scale our systems and ensure the availability of our services together with other system engineers and database administrators&lt;/li&gt;
+  &lt;li&gt;Interact with our developers on changes to the infrastructure required by new features and products&lt;/li&gt;
+  &lt;li&gt;You focus on infrastructure automation to support the creation of test environment for QA and development&lt;/li&gt;
+  &lt;li&gt;Tackle technological challenges of an infrastructure currently handling up to 350k requests per minute&lt;/li&gt;
+  &lt;li&gt;Take part in the on-call rotation to ensure flawless operation of our products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3-5 years of experience in IT Operations of high-available applications&lt;/li&gt;
+  &lt;li&gt;Solid knowledge of Linux (CentOS preferred), webservers (nginx/Apache), TCP/IP networking and good command of at least one scripting language (Ruby, Python, Perl, sh)&lt;/li&gt;
+  &lt;li&gt;Experience with security, high availability, big data solutions, storage systems, automated deployment (chef/puppet) and Apache Kafka is a big plus&lt;/li&gt;
+  &lt;li&gt;An academic background in computer science is a plus&lt;/li&gt;
+  &lt;li&gt;Detail oriented, reliable and analytical with an proactive approach&lt;/li&gt;
+  &lt;li&gt;Fluency in English (verbal and written)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, with all of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 20:02:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/senior-system-engineer-devops/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/senior-system-engineer-devops/</guid>
+        
+        <category>Linux</category>
+        
+        <category>CentOS</category>
+        
+        <category>Nginx</category>
+        
+        <category>Apache</category>
+        
+        <category>Ruby</category>
+        
+        <category>Python</category>
+        
+        <category>Perl</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Director Product Demand</title>
+        <description>&lt;p&gt;Fyber is looking for an experienced &lt;strong&gt;Director Product - Demand&lt;/strong&gt; to raise the status quo with one of the fastest growing global players in Ad Tech. Your aim is to create a partnership-based platform to deliver best monetization rates for publishers. This role reports into the VP Product.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-role&quot;&gt;Your Role:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsible for product strategy across all sources of advertising demand on the Fyber platform. Your goal is to put together a platform that enables the kind of partnerships that deliver best monetization rates for publishers&lt;/li&gt;
+  &lt;li&gt;Lead a growing team of 6 product managers and product owners on the demand side. You’ll be responsible for our Mediation platform, the Fyber Exchange with its managed and programmatic demand sources as well as direct advertising services and self-serve tools&lt;/li&gt;
+  &lt;li&gt;Work closely with the executive team to align our overall demand strategy, work with your team of product managers and product owners to research, evaluate and scope new ideas and execute engineering projects&lt;/li&gt;
+  &lt;li&gt;Take responsibility for monetization rates across all ad formats on the Fyber platform&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;your-qualifications&quot;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;University degree (Computer Science, Business Information Systems, Economics, Business, other science or related field) with outstanding results.&lt;/li&gt;
+  &lt;li&gt;At least 3 years experience in ad tech, ideally mobile advertising (e.g. from working at an ad network, SSP, DSP, ad exchange, ad server, retargeting platform, trading desks, attribution platform or similar)&lt;/li&gt;
+  &lt;li&gt;At least 3 years of leadership experience leading a team of at least 4 direct reports&lt;/li&gt;
+  &lt;li&gt;At least 2 years of experience in product management OR 1 year of experience as an entrepreneur building ad tech products&lt;/li&gt;
+  &lt;li&gt;Familiar with the mobile ad tech industry and deep understanding of how SSPs, Ad Exchanges, DSPs and ad servers work&lt;/li&gt;
+  &lt;li&gt;Excellent written and oral communications skills, as well as strong interpersonal demeanor&lt;/li&gt;
+  &lt;li&gt;Strong leadership skills and experience managing expectations of stakeholders and executives&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h2&gt;
+&lt;p&gt;We’re here to solve a fundamental problem faced by all app developers: how to make money from their product. Our platform simplifies advertising integration and allows developers to make smart decisions about where, when, and how often to show ads. At Fyber, we build an “advertising-in-a-box” solution that solves this problem for apps all over the world – with over 100 million end users a day.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learn and grow with some of the best experts in the industry&lt;/li&gt;
+  &lt;li&gt;Contribute to technically diverse (platforms: Unix, mobile (iOS/Android), C++, Scala, Ruby), highly scalable, open source technologies and hacker friendly projects&lt;/li&gt;
+  &lt;li&gt;Work with a high-growth, publically traded company (with over 250 employees in six years) in the heart of Berlin&lt;/li&gt;
+  &lt;li&gt;Join a friendly, culturally diverse team (+44 nationalities) where people value excellence, team spirit, passion, courage, pragmatism and accountability&lt;/li&gt;
+  &lt;li&gt;The financial stability of a larger company, but, with all of the perks of a cool Berlin start-up like food/drinks (Beer Fridays), sports, laid back culture, and fab office space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 19:48:07 +0200</pubDate>
+        <link>http://polyconf.com/2015/06/director-product-demand/</link>
+        <guid isPermaLink="true">http://polyconf.com/2015/06/director-product-demand/</guid>
+        
+        <category>PM</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
